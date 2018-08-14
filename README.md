@@ -15,5 +15,5 @@ Repository for some small projects that I've done when my hands kinda itching to
      - Set pointers to both ends
      - If the sum of both numbers on the pointers < z, move front pointer up
      - If the sum > z, move back pointer down
-     - If both pointer overlaps, then there's no x and y that summed up to z
+     - When both pointer overlaps, then there's no x and y that summed up to z
    - Finished 13 August 2018
