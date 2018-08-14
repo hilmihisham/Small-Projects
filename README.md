@@ -1,4 +1,4 @@
-# Small Projects
+# hilmi's Small Projects
 Repository for some small projects that I've done when my hands kinda itching to type and write something.. also good for some refresher of what I've learned so far so why not.
 
 ..or sometimes just project for the lulz. :P
